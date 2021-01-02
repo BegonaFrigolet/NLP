@@ -56,4 +56,4 @@ On Twitter is about joining the conversation and promoting the initiatives and c
 - Recommendations
 An improvement that can be done in twitter is not only promote de initiatives and join the conversation but invite victims to share their story via Reddit, because there is no character limit, thus increasing Reddit ́s testimonies and having more information regarding this subject.
 
-This Project was done in collaboration with Marang Mutloatse Adelina Akhsanova, Nisrine Ferahi, Begona Frigolet, Mohamed Amer and Prasanth Chakka.
+This Project was done in collaboration with Marang Mutloatse Adelina Akhsanova, Nisrine Ferahi,Mohamed Amer and Prasanth Chakka.
