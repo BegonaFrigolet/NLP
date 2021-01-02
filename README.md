@@ -6,10 +6,10 @@ Domestic Violence is not a pandemic, it’s an epidemic. With Covid-19 ravaging 
 
 As this problem has serious precautions on the physical and mental health of the victims (children, woman, man), a lot of research has been already conducted to analyse the nature of this social problem from interviews with victims, and official data like health records. Recently there has been significant effort put into social media data research. However, much of this research found has many limitations to create practical tools to deal with domestic violence. Within this project, we are looking utilizing topic modelling to assist with domestic violence data classification.
 
-# Final Report: 
-- Final Report can be found in this link
-- Final Presentation can be found in this link
-- Final Website & Application can be found in this link
+# Final Report & Applications: 
+- To Review  the Website & Application can be found in this [LINK](https://bfdelavega.wixsite.com/misitio)
+- To Review  the Final Report can be found in this [LINK](https://github.com/BegonaFrigolet/Natural-Language-Processing/blob/main/NLPAssignment_GroupA/Final%20Report_GroupA.pdf)
+- To Review  the Final Presentation can be found in this [LINK](https://github.com/BegonaFrigolet/Natural-Language-Processing/blob/main/NLPAssignment_GroupA/GroupA_Domestic_Violence.pptx)
 
 ## Data & Methodology: 
 
