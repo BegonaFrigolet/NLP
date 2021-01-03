@@ -1,6 +1,6 @@
 # Natural Language Processing 
 
-# Analyzing Domestic Violence through Topic Modelling - All documentation can be found on this [LINK] (https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLPAssignment_GroupA)
+# Analyzing Domestic Violence through Topic Modelling - All documentation can be found on this [LINK](https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLPAssignment_GroupA).
 
 Domestic Violence is not a pandemic, it’s an epidemic. With Covid-19 ravaging the economy; increasing unemployment such crises are set to become much more frequent. Add another public health crisis to the toll of the new coronavirus: Mounting data suggests that domestic abuse is acting as an opportunistic infection, flourishing in the conditions created by the pandemic.
 
@@ -60,7 +60,7 @@ This Project was done in collaboration with Marang Mutloatse Adelina Akhsanova, 
 
 
 
-# Analyzing Disaster Tweets Through NLP All documentation can be found on this [LINK] (https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLP%20%20Disaster%20Tweets)
+# Analyzing Disaster Tweets Through NLP All documentation can be found on this [LINK](https://github.com/BegonaFrigolet/Natural-Language-Processing/tree/main/NLP%20%20Disaster%20Tweets).
 
 
 ### Main Goal: 
